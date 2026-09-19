@@ -40,14 +40,20 @@ Arduino, ESP32, autenticación NFC, cerraduras electrónicas.
 
 ## Proyectos destacados
 
-### [Nexpass](https://nexpass.bxco.de)
-Sistema de control de acceso mediante cerraduras electrónicas con autenticación NFC. Diseñado para ser altamente parametrizable, de modo que se pueda adaptar a distintos tipos de instalación sin tocar el código base. Backend en Laravel, desplegado en servidor propio con dominio y DNS configurados. En desarrollo activo.
+### CMS + SSO — Intranet institucional (HHC)
+Intranet del Hospicio de Huérfanos de Cartago que centraliza la autenticación (Single Sign-On) de los sistemas internos de la institución —bitácoras de laboratorios y préstamo de equipos de TI— y gestiona circulares y noticias para cada frente de negocio del HHC.
 
 ### Sistema de bitácoras de laboratorios
-Gestión de bitácoras de uso y préstamo de llaves físicas para los laboratorios del Hospicio de Huérfanos de Cartago (HHC), con trazabilidad por usuario mediante NFC. Integrado con Nexpass para unificar el control de acceso físico entre llaves tradicionales y cerraduras electrónicas.
+Gestión de bitácoras de uso y préstamo de llaves físicas para los laboratorios del HHC, con trazabilidad por usuario mediante NFC. Autenticación centralizada a través del CMS/SSO institucional, e integrado con Nexpass para unificar el control de acceso físico entre llaves tradicionales y cerraduras electrónicas.
 
 ### Sistema de préstamo de equipos de TI
-Control de préstamo y devolución de equipo para el departamento de TI del HHC. Identificación de dispositivos por SKU, historial de asignaciones y generación de documentos de responsabilidad.
+Control de préstamo y devolución de equipo para el departamento de TI del HHC. Identificación de dispositivos por SKU, historial de asignaciones, generación de documentos de responsabilidad y autenticación vía el SSO institucional.
+
+### Califica
+Sistema de calificación de proyectos, desarrollado para el concurso **Intel InnoW**. Gestiona rúbricas, entregables, participantes y jueces, desde la inscripción de un proyecto hasta la calificación final.
+
+### [Nexpass](https://nexpass.bxco.de)
+Sistema de control de acceso mediante cerraduras electrónicas con autenticación NFC. Diseñado para ser altamente parametrizable, de modo que se pueda adaptar a distintos tipos de instalación sin tocar el código base. Backend en Laravel, desplegado en servidor propio con dominio y DNS configurados. En desarrollo activo.
 
 ---
 
