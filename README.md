@@ -60,4 +60,4 @@ Técnico Medio en Desarrollo Web — Colegio Vocacional de Artes y Oficios (COVA
 ## Contacto
 
 📧 brandon.marin.cubero@gmail.com
-💼 [LinkedIn](https://linkedin.com/in/USUARIO)
+💼 [LinkedIn](https://www.linkedin.com/in/brandon-marín-cubero-2bb015437/)
