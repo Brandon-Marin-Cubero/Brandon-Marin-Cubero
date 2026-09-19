@@ -18,6 +18,7 @@ Desarrollador Full Stack en Cartago, Costa Rica. Trabajo principalmente con Lara
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Bases de datos**
 
@@ -53,7 +54,7 @@ Control de préstamo y devolución de equipo para el departamento de TI del HHC.
 Sistema de calificación de proyectos, desarrollado para el concurso **Intel InnoW**. Gestiona rúbricas, entregables, participantes y jueces, desde la inscripción de un proyecto hasta la calificación final.
 
 ### [Nexpass](https://nexpass.bxco.de)
-Sistema de control de acceso mediante cerraduras electrónicas con autenticación NFC. Diseñado para ser altamente parametrizable, de modo que se pueda adaptar a distintos tipos de instalación sin tocar el código base. Backend en Laravel, desplegado en servidor propio con dominio y DNS configurados. En desarrollo activo.
+Sistema de control de acceso mediante cerraduras electrónicas con autenticación NFC. Diseñado para ser altamente parametrizable, de modo que se pueda adaptar a distintos tipos de instalación sin tocar el código base. Backend en Laravel, desplegado en infraestructura propia. En desarrollo activo.
 
 ---
 
